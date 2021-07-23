@@ -6,6 +6,12 @@ A imagem do desafio foi disponibilizada em https://hub.docker.com/repository/doc
 e foi baseada numa imagem golang para a geração do binário e otimizada na fase final com a imagem scratch,
 desta forma conseguindo subir uma imagem no Docker HUB com tamanho menor que 2Mb
 
+###############################################################
+
+LINK DA IMAGEM NO DOCKER HUB https://hub.docker.com/repository/docker/19061977/codeeducation
+
+###############################################################
+
 Para executar o container deste imagem seguir a instrução a seguir:
 
 docker run 19061977/codeeducation
